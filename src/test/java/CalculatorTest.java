@@ -8,7 +8,7 @@ import java.util.stream.Stream;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 
-public class test {
+public class CalculatorTest {
 
     @org.junit.jupiter.api.Test
     public void testPlus() {

@@ -13,19 +13,19 @@
         <groupId>org.junit.jupiter</groupId>
         <artifactId>junit-jupiter-engine</artifactId>
         <version>5.8.2</version>
-        <scope>test</scope>
+        <scope>CalculatorTest</scope>
     </dependency>
         <dependency>
             <groupId>org.eclipse.sisu</groupId>
             <artifactId>org.eclipse.sisu.plexus</artifactId>
             <version>0.3.3</version>
-            <scope>test</scope>
+            <scope>CalculatorTest</scope>
         </dependency>
         <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter-params</artifactId>
             <version>5.8.2</version>
-            <scope>test</scope>
+            <scope>CalculatorTest</scope>
         </dependency>
     </dependencies>
 
